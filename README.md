@@ -3,9 +3,16 @@ Resource to get data for our project - https://www.kaggle.com/datasets/pashupati
 
 In colab:
 Add a cell below - Ctrl + M + B
+<br>
 Add a cell above - Ctrl + M + A
+<br>
 Change cell to code - Ctrl + M + Y
+<br>
 Change cell to markdown - Ctrl + M + M
+<br>
+Run code of selected cell: Ctrl + Enter
+<br>
+Run all: Ctrl + f9
 
 Fundamental packages - pandas and numpy
 Data visualization packages - matplotlib.pyplot and seaborn
